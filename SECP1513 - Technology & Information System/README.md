@@ -1,7 +1,6 @@
 # **📘 Technology & Information Systems**
 
-**Course Code**: SECP1513-02
-**Lecturer's Name**: Dr. Aryati binti Bakri
+**Course Code**: SECP1513-02 // **Lecturer's Name**: Dr. Aryati binti Bakri
 
 This folder documents my learning journey in the Technology & Information Systems (TIS) course. It includes assignments, industry exposure activities, project work, and personal reflections that demonstrate my understanding of how technology and information systems are applied in real-world contexts.
 
