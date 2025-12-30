@@ -83,7 +83,7 @@ I have provided a folder for all my assignments throught the course, including:
 
 This group assignment focused on understanding core TIS concepts through UTMDigital Industry Visit. We held interviews and recorded scenery to compile in a video through CapCut which projects the input obtained after the visit. I hope to attend more industry visits especially outside of my own university in the future for more industrial exposure.
 
-[![YouTube](img.shields.io)](https://youtu.be/rvWaaMnH9rw)
+[![Watch the video](https://img.youtube.com/vi/rvWaaMnH9rw/0.jpg)](https://www.youtube.com/watch?v=rvWaaMnH9rw)
 
 ## 📄 Assignment 2
 
