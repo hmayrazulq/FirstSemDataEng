@@ -127,5 +127,5 @@ This course helped me see the *bigger picture* before diving deeper into technic
 As a Data Engineering student, this course gave me a strong foundation before diving deeper into technical subjects. It helped me see the bigger picture of how data, systems, and technology interact in real environments, which motivates me to continuously improve my skills.
 
 ## 🔗 Related Links
-- 🌐 **E-Portfolio Website:** *[(add your GitHub Pages link)](https://hmayrazulq.github.io/humayrasePortfolio/)*  
-- 💼 **LinkedIn:** *[(add your LinkedIn link)](https://www.linkedin.com/in/humayra-zulqarnain-5a47a8337/)*  
+- 🌐 **E-Portfolio Website:** *[(Click to go to my ePortfolio Website)](https://hmayrazulq.github.io/humayrasePortfolio/)*  
+- 💼 **LinkedIn:** *[(Click to go to my LinkedIn Profile)](https://www.linkedin.com/in/humayra-zulqarnain-5a47a8337/)*  
