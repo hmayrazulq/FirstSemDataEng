@@ -107,9 +107,15 @@ Out topic was about **Student Engagement or Wellness Analytics**, where we creat
 This project helped me understand that technology solutions should be designed with users in mind, not just technical feasibility.
 
 # 🔍 Reflections
-## Summary: What I Gained from This Course
+## 🎯 Overall Learning Summary
 
-Overall, this course helped me understand how technology and information systems support organizations, industries, and society. I gained both technical awareness and soft skills such as communication, teamwork, and critical thinking.
+Through this course, I gained a clearer understanding of:
+- How information systems support organizations and industries
+- The relationship between technology, data, and decision-making
+- The importance of ethics, governance, and emerging technologies
+- Soft skills such as communication, teamwork, and critical thinking through presentations and projects
+
+This course helped me see the *bigger picture* before diving deeper into technical subjects in my Data Engineering programme.
 
 ## Suggested Improvements
 - More hands-on system-based activities
@@ -119,3 +125,7 @@ Overall, this course helped me understand how technology and information systems
 # 🎓 Personal Reflection
 
 As a Data Engineering student, this course gave me a strong foundation before diving deeper into technical subjects. It helped me see the bigger picture of how data, systems, and technology interact in real environments, which motivates me to continuously improve my skills.
+
+## 🔗 Related Links
+- 🌐 **E-Portfolio Website:** *[(add your GitHub Pages link)](https://hmayrazulq.github.io/humayrasePortfolio/)*  
+- 💼 **LinkedIn:** *[(add your LinkedIn link)](https://www.linkedin.com/in/humayra-zulqarnain-5a47a8337/)*  
