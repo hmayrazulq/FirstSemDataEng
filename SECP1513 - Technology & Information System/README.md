@@ -12,7 +12,7 @@ This folder documents my learning journey in the Technology & Information System
 - Design Thinking Project
 - Reflections
 
-## **📂 Folder Structure Overview**
+## 📂 Folder Structure Overview
 
 - **Industry Talk & Industry Visit**
   - UTMDigital
@@ -29,12 +29,12 @@ This folder documents my learning journey in the Technology & Information System
 - **Design Thinking Project**
 - **Reflections**
 
-# **🏭 Industry Talk & Industry Visit**
-## **📌 Industry Visit 1: UTMDigital**
+# 🏭 Industry Talk & Industry Visit
+## 📌 Industry Visit 1: UTMDigital
 
 During the visit, me and my sections attended 3 talks about System Development, Project Managing, UTMSmart, data centres, etc. by UTMDigital staff. We gained information beyond the classroom about data engineering at UTM and in the current job trends.
 
-## **📌 Industry Talk 1: PPG**
+## 📌 Industry Talk 1: PPG
 
 Through this industry talk, I was exposed to how large-scale organizations manage technology, data, and information systems to support decision-making and operations. The session helped me understand the importance of aligning IT systems with business goals and ICT roles.
 
@@ -48,7 +48,7 @@ The talk provided a comprehensive overview of Project Management and System Deve
 - Awareness of how information systems support daily operations
 - Increased motivation to develop relevant technical and soft skills
 
-#🖥️ PC Assembly (Lab)
+# 🖥️ PC Assembly (Lab)
 This lab session focused on assembling computer hardware components and understanding their functions.
 
 ## Skills gained:
@@ -114,6 +114,6 @@ Overall, this course helped me understand how technology and information systems
 - Additional real-world case studies
 - Longer industry engagement sessions
 
-# Personal Reflection
+# 🎓 Personal Reflection
 
 As a Data Engineering student, this course gave me a strong foundation before diving deeper into technical subjects. It helped me see the bigger picture of how data, systems, and technology interact in real environments, which motivates me to continuously improve my skills.
