@@ -1,7 +1,7 @@
 # ⚖️ Integrity & Anti-Corruption
 
-**Programme:** Bachelor of Computer Science (Data Engineering)  
-**Semester:** Year 1, Semester 1  
+**Course Code:** ULRS1032-14
+**Lecturer's Name:** Dr. Fahrul Irfan bin Ishak
 
 This folder documents my learning and reflections from the Integrity and Anti-Corruption course. The course focuses on ethical values, integrity, and responsible behavior in both professional and personal contexts.
 
