@@ -55,7 +55,7 @@ I am left inspired by how fast big industries want to move and take the lead in 
 
 ---
 
-## 📌 Technology and Information Systems Industry Talk
+## 📌Information Systems Behind Power BI Industry Talk
 
 Hearing the talk by Ms. Qaisara Rohzan, Application Developer Analyst II at PPG helped me gain new information about the main use of Power BI and the definition of Technology and Information Systems itself.
 
