@@ -4,7 +4,7 @@ The SECP talk focused on ethics, governance, and security in technology systems.
 
 ---
 
-## 🧠 Key Takeaways
+## Key Insights
 - Importance of ethical responsibility in technology
 - Guidance and mentor session with Data Engineering seniors
 - Advantages and tips to make a good resume or CV
