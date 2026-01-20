@@ -65,12 +65,15 @@ From the testing phase, we observed:
 ---
 
 ## 📄 Project Files
+ > ⚠️ PDFs uploaded may show “error rendering embedded code” on GitHub due to file conversion, but it is complete and accessible when downloaded from the buttons I put in this README.
 
-- Canva prototype exported as PDF  
-  > ⚠️ The PDF may show “error rendering embedded code” on GitHub due to file conversion, but it is complete and accessible when downloaded.
-- Design Thinking Report
+
+- Canva prototype exported as PDF (Clickable):
+  > [![Canva](https://img.shields.io/badge/Canva-Prototype-purple?logo=canva)](https://www.canva.com/design/DAG7wpZBzG4/Wkq9p4Q6nezGYywPfxamog/view?mode=prototype)
+- Design Thinking Report (Clickable):
+  > [![Google Docs](https://img.shields.io/badge/Google%20Docs-Project%20Report-blue?logo=google-docs)](https://docs.google.com/document/d/1yhqseBFDQWnLoNML6NM5593LtnE88Qn-QQEI6VUd7fQ/view)
 - Design Thinking Presentation Slides (Clickable):  
-[![Canva](https://img.shields.io/badge/Canva-Design%20Thinking%20Presentation-blue?logo=canva)](https://www.canva.com/design/DAG-MAszJ-Q/eY5tytsyrANxHY6htvIhVA/view)
+  > [![Canva](https://img.shields.io/badge/Canva-Design%20Thinking%20Presentation-blue?logo=canva)](https://www.canva.com/design/DAG-MAszJ-Q/eY5tytsyrANxHY6htvIhVA/view)
 - Design Thinking Video (Clickable)
   > [![Watch the video](https://img.youtube.com/vi/GthMQMXqYpA/0.jpg)](https://www.youtube.com/watch?v=GthMQMXqYpA)
 
