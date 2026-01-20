@@ -64,6 +64,77 @@ From the testing phase, we observed:
 
 ---
 
+## Prototype Details: 🌱 UniWell
+UniWell is a student wellbeing and wellness analytics prototype designed to help university students monitor their academic engagement, wellbeing, and social participation in one integrated platform.
+
+### 🔐 Entrance Page
+- Minimal landing screen with a start/play button to enter the app
+- Displays application name and tagline “Your University Wellness Companion”
+
+### 🏠 Main Dashboard
+- Centralised overview of student wellbeing and engagement
+- Emoji-based mood input for daily or weekly check-ins
+- Navigation shortcuts to core feature modules
+- Donut chart summarizing overall engagement level (e.g. good, moderate, low) for the current week
+
+### 😊 Mood Tracking & Mood Calendar
+- Daily mood logging using emoji selection
+- Calendar view showing submitted moods across days
+- Empty dates indicate missed mood entries
+- “Mood Booster” section that recommends wellbeing resources (e.g. podcasts, activities)
+- Displays participation count and usefulness percentage for recommended resources
+
+### 📊 Attendance Tracking (Digital Footprint)
+- Attendance visualised using calendar layouts
+- Conceptual integration with university learning systems (e.g. UTMSMART, eLearning)
+- Daily and subject-level attendance summaries
+
+### ❤️ Student Pulse
+- Conceptual heart rate measurement by placing index finger on rear camera
+- Displays minimum, average, and maximum BPM values
+- Historical pulse trends visualised using line charts
+- Intended for wellbeing awareness, not medical diagnosis
+
+### 😓 Stress Level Monitoring
+- Aggregated stress status visualised using bar indicators
+- Displays average heart rate variability (HRV) and pulse rate
+- Generates personalised stress descriptions based on detected levels
+
+### 🤝 Social Engagement Tracking
+- Overall engagement level displayed using donut charts
+- Tracks participation in events, programmes, clubs, and committees
+- Provides engagement improvement suggestions, such as maintaining participation or trying new activities
+
+### ⚠️ Early Warning Feature
+- Triggered by declining wellness or engagement metrics
+- Displays contributing factors in bullet points
+- Provides access to academic advisors and counselling support resources
+- Designed to encourage early intervention
+
+### 📚 Assignments & Academic Progress
+- Weekly overview of completed and pending assignments
+- Scrollable daily records for assignment tracking
+- Generates brief engagement insights based on academic activity (assignment completion patterns)
+
+📈 Weekly Analysis Report
+- Weekly summary of:
+  - Wellness score
+  - Engagement score
+  - Social score
+- Colour-coded indicators based on performance thresholds
+- Trend analysis visualisations:
+  - Stress level trends over time
+  - Participation trends across weeks
+- Alerts and recommended support actions based on detected patterns
+
+### 🧭 Navigation Bar
+- Persistent bottom navigation bar providing access to:
+  - Dashboard
+  - Analytics
+  - Profile (conceptual)
+
+---
+
 ## 📄 Project Files
  > ⚠️ PDFs uploaded may show “error rendering embedded code” on GitHub due to file conversion, but it is complete and accessible when downloaded from the buttons I put in this README.
 
