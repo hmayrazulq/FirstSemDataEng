@@ -70,7 +70,7 @@ From the testing phase, we observed:
   > ⚠️ The PDF may show “error rendering embedded code” on GitHub due to file conversion, but it is complete and accessible when downloaded.
 - Design Thinking Report
 - Design Thinking Presentation Slides (Clickable):  
-[![Canva](https://img.shields.io/badge/Canva-Design%20Thinking%20Presentation-blue?logo=canva)]([https://www.canva.com/design/DAG-MAszJ-Q/eY5tytsyrANxHY6htvIhVA/view])
+[![Canva](https://img.shields.io/badge/Canva-Design%20Thinking%20Presentation-blue?logo=canva)](https://www.canva.com/design/DAG-MAszJ-Q/eY5tytsyrANxHY6htvIhVA/view)
 - Design Thinking Video (Clickable)
   > [![Watch the video](https://img.youtube.com/vi/GthMQMXqYpA/0.jpg)](https://www.youtube.com/watch?v=GthMQMXqYpA)
 
