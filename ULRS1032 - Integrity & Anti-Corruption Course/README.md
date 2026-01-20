@@ -18,6 +18,9 @@ This course covered topics such as:
 
 Although not technical, this course is highly relevant to future professionals in technology and data-related fields.
 
+Watch our Group Video about Integrity and Anti-Corruption:
+[![Watch the video](https://img.youtube.com/vi/oZuObIN9sbg/0.jpg)](https://www.youtube.com/watch?v=oZuObIN9sbg)
+
 ---
 
 ## 🧠 Learning Reflection
