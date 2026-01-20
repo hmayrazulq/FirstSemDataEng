@@ -10,10 +10,15 @@ This folder contains materials and reflections related to the Digital Logic cour
 ## 📚 Course Overview
 
 Topics covered in this course include:
-- Number systems (binary, hexadecimal)
+- Introductory Concepts
+- Number systems (binary, hexadecimal), Data Organization, Arithmetic Operations
 - Logic gates
-- Boolean algebra
-- Combinational and sequential circuits
+- Boolean algebra, Logic Simplification
+- Combinational Logic Circuits
+- Functions of Combinational Logic
+- Latches and Flip-Flops
+- Asynchronous and Synchronous Counters
+- Shift Registers
 - Basic digital circuit design
 
 ---
