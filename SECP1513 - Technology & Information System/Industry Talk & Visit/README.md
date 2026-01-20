@@ -36,10 +36,32 @@ The PPG industry talk introduced how large organizations manage technology and i
 The visit to Serunai allowed me to observe how systems are implemented in practice.
 
 **Reflection:**  
-Seeing real working environments helped me connect lecture concepts to actual workflows and strengthened my understanding of how technology supports daily operations.
+Visualising real working environments using examples, althought through online meetings helped me connect lecture concepts to actual workflows and strengthened my understanding of how technology supports daily operations.
 
 **Click this button to see my LinkedIn post of Project Management and System Development Industry Talk:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue?logo=linkedin)](https://www.linkedin.com/posts/humayra-zulqarnain-5a47a8337_systemdevelopment-projectmanagement-dataengineering-activity-7410903329549135873-n9RN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSoJ0wBBenIkSlDrnZ7Jc8Y7q8hORLl2Ms)
+
+---
+
+## 📌 JCorp Industry Visit
+
+The visit to JCorp allowed me to observe how agentic systems, AI-Driven and Cloud-First technologies are implemented in practice and understanding its relevance in industries.
+
+**Reflection:**  
+I am left inspired by how fast big industries want to move and take the lead in technological advancements, hence, the need for more AI-enhanced skills are needed. Skills beyond a regular degree can provide will give one a headstart in work life.
+
+**Click this button to see my LinkedIn post of Project Management and System Development Industry Talk:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue?logo=linkedin)](https://www.linkedin.com/posts/humayra-zulqarnain-5a47a8337_industryvisit-utm-utmsanjunganbangsa-activity-7415046259981594624-SykX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSoJ0wBBenIkSlDrnZ7Jc8Y7q8hORLl2Ms)
+
+---
+
+## 📌 Technology and Information Systems Industry Talk
+
+Hearing the talk by Ms. Qaisara Rohzan, Application Developer Analyst II at PPG helped me gain new information about the main use of Power BI and the definition of Technology and Information Systems itself.
+
+**Key Insights Gained:**
+- Power BI is used to transform raw data into meaningful data and information
+- Using an example such as making a dessert, we undertood the flow in information systems consisting of data sources, network, storage, hardware, software and people/users
 
 ---
 
