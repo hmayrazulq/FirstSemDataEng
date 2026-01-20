@@ -18,9 +18,6 @@ This course covered topics such as:
 
 Although not technical, this course is highly relevant to future professionals in technology and data-related fields.
 
-Watch our Group Video about Integrity and Anti-Corruption:
-[![Watch the video](https://img.youtube.com/vi/oZuObIN9sbg/0.jpg)](https://www.youtube.com/watch?v=oZuObIN9sbg)
-
 ---
 
 ## 🧠 Learning Reflection
@@ -50,3 +47,5 @@ As a future data professional, understanding ethical responsibility is crucial w
 
 This course reminded me that technical skills alone are not enough. Integrity and ethical awareness are equally important in building trust and professionalism in any career path.
 
+Watch our Group Video about Integrity and Anti-Corruption:
+[![Watch the video](https://img.youtube.com/vi/oZuObIN9sbg/0.jpg)](https://www.youtube.com/watch?v=oZuObIN9sbg)
