@@ -43,10 +43,10 @@ We brainstormed features for a system that could:
 ---
 
 ### 4️⃣ Prototype (Low-Fidelity)
-
 We created a **low-fidelity prototype** using:
 - **Canva** for UI layout design  
-- **Hand sketches** to visualize and refine the interface with digital design  
+- **Hand sketches** to visualize and refine the interface with digital design
+- App interface called "UniWell"
 
 The prototype focuses on clarity and usability rather than technical implementation.
 
@@ -54,12 +54,24 @@ The prototype focuses on clarity and usability rather than technical implementat
 [![Canva](https://img.shields.io/badge/Canva-Prototype-purple?logo=canva)](https://www.canva.com/design/DAG7wpZBzG4/Wkq9p4Q6nezGYywPfxamog/view?mode=prototype)
 
 
+### 5️⃣ Testing
+We tested our prototype with a university student from the **Faculty of Computing**
+
+From the testing phase, we observed:
+- Student reaction towards visualized personal wellness and engagement data
+- Clear features (Student Pulse, Attendance Monitoring, Mood Calendar, Early Warning Feature, Assignment Progress Tracking, Weekly Report\0
+- Features that need refinement (Clearer UI)
+
 ---
 
 ## 📄 Project Files
 
 - Canva prototype exported as PDF  
   > ⚠️ The PDF may show “error rendering embedded code” on GitHub due to file conversion, but it is complete and accessible when downloaded.
+- Design Thinking Report
+- Design Thinking Presentation Slides (Clickable)
+- Design Thinking Video (Clickable)
+  > [![Watch the video](https://img.youtube.com/vi/GthMQMXqYpA/0.jpg)](https://www.youtube.com/watch?v=GthMQMXqYpA)
 
 ---
 
