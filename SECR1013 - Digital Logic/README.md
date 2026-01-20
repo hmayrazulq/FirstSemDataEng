@@ -16,8 +16,6 @@ Topics covered in this course include:
 - Combinational and sequential circuits
 - Basic digital circuit design
 
-The course helped me understand how hardware-level logic supports higher-level software systems.
-
 ---
 
 ## 🔧 Labs & Practical Work
