@@ -46,7 +46,7 @@ We brainstormed features for a system that could:
 
 We created a **low-fidelity prototype** using:
 - **Canva** for UI layout design  
-- **Hand sketches** to visualize and refine the interface before digital design  
+- **Hand sketches** to visualize and refine the interface with digital design  
 
 The prototype focuses on clarity and usability rather than technical implementation.
 
