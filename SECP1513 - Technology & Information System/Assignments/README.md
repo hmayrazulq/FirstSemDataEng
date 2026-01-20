@@ -42,6 +42,15 @@ By completing this assignment, I became more confident in analyzing how technolo
 
 ---
 
+## 📄 Assignment 4
+
+The assignment given tested our academic writing skills while summarizing key insights from our industrial visit to Johor Corporation (JCorp). Other than summarizing and highlighting the things we observed and input from the talks given, we practised how to write in proper academic writing as preparation for future reports and as preparation for our Final Year Project which will be valued individually.
+
+**Reflection:**  
+By completing this assignment, I refreshed what I got from the JCorp Industry Visit which highlighted the importance of academics and self-learning to remain relevant in industries. Other than that, I enhanced my cognitive thinking skills and proper writing skills.
+
+---
+
 # 📌 Overall Reflection (Assignments)
 
 Completing these assignments helped reinforce lecture content and encouraged me to think beyond memorization. They trained me to explain ideas clearly and reflect on how technology impacts real environments.
