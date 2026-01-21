@@ -49,6 +49,8 @@ The assignment given tested our academic writing skills while summarizing key in
 **Reflection:**  
 By completing this assignment, I refreshed what I got from the JCorp Industry Visit which highlighted the importance of academics and self-learning to remain relevant in industries. Other than that, I enhanced my cognitive thinking skills and proper writing skills.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-blue?logo=linkedin)](https://www.linkedin.com/posts/humayra-zulqarnain-5a47a8337_jcorp-newsletter-utm-activity-7419766087699001344-kZOX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSoJ0wBBenIkSlDrnZ7Jc8Y7q8hORLl2Ms)
+
 ---
 
 # 📌 Overall Reflection (Assignments)
